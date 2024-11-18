@@ -11,7 +11,7 @@
 
 - 📫 How to reach me [PH:8421877583 (harshalbirari98@gmail.com)](PH:8421877583 (harshalbirari98@gmail.com))
 
-- 👨‍💻 I'm looking for role of **Power BI or SQL Developer**
+- 👨‍💻 I'm looking for role of **Data Analyst**
 
 - ⚡ Fun fact **I love creating interactive dashboards**
 
